@@ -1,5 +1,7 @@
 ### Hi there ✨
 
+- ```API_URL: string``` - содержит базовый URL для API, формируется из переменной окружения process.env.API_ORIGIN
+
 <!--
 **NIttaDragon/NIttaDragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
